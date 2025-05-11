@@ -1,12 +1,12 @@
 {
   "name": "GRAIL",
   "symbol": "GRAIL",
-  "image": "https://grail390.github.io/grail.png",
+  "image": "https://grail390.github.io/Grail/grail.png",
   "properties": {
     "category": "image",
     "files": [
       {
-        "uri": "https://grail390.github.io/grail.png",
+        "uri": "https://grail390.github.io/Grail/grail.png",
         "type": "image/png"
       }
     ]
