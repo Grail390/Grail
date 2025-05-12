@@ -2,12 +2,12 @@
   "name": "GRAIL",
   "symbol": "GRAIL",
   "description": "The Grail meme token",
-  "image": "https://grail390.github.io/Grail/grail.png",
+  "image": "https://raw.githubusercontent.com/grail390/Grail/main/assets/mainnet/D7fe1inqfKLJhkrCtYNo5c1pDZebvV9C8CMkzMg1grwT.png",
   "properties": {
     "category": "image",
     "files": [
       {
-        "uri": "https://grail390.github.io/Grail/grail.png",
+        "uri": "https://raw.githubusercontent.com/grail390/Grail/main/assets/mainnet/D7fe1inqfKLJhkrCtYNo5c1pDZebvV9C8CMkzMg1grwT.png",
         "type": "image/png"
       }
     ]
